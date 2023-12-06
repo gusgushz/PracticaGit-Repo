@@ -1,7 +1,11 @@
-# Practica
+# Practice
 
-Esto es una texto!!!
+This is a text!!!
 
 ## Subtitulo
 
-Texto agregado en VSC.
+Text add on VSC.
+
+## New section
+
+1. Open index.html in your browser
